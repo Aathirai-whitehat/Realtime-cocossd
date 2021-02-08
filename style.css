@@ -1,0 +1,26 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Gorditas', cursive;
+}
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+background-color: deepskyblue;
+color: goldenrod;
+}
+
+#status{
+font-size: 18px;
+}
+
+canvas{
+    border: 5px solid deeppink;
+    box-shadow: 10px 10px 10px teal;
+}
+
+
+
